@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DIDemo</string>
+    <string name="this_is_a_fragment">This is a Fragment</string>
+</resources>
